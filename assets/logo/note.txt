@@ -1,0 +1,7 @@
+font: sans-serif (default in inkscape)
+color: #007700ff
+big: 1517 x 1517
+small: 200 x 200
+
+Icon url: https://thenounproject.com/term/wheat/587  
+        
