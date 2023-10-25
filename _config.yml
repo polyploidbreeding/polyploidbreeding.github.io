@@ -1,6 +1,7 @@
-title: Minimal theme
+title: Polyploidbreeding
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: Expanding the toolbox for cereal breeding: high-throughput genomics, 2D-3D phenomics and artificial intelligence for breeding with
+increasing genome complexity, from barley to durum and bread wheat (POLYPLOIDBREEDING 4.0). This is a [PRIN2022 project](https://www.mur.gov.it/sites/default/files/2023-06/Decreto%20Direttoriale%20n.%20752%20LS2_Allegato%20B.pdf).
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
