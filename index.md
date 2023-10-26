@@ -3,9 +3,9 @@ layout: default
 ---
 
 
-## Latest from the project
+# Latest from the project
 
-<h1>{{ site.posts.first.title }}</h1>
+<h2>{{ site.posts.first.title }}</h2>
 {{ site.posts.first.content | replace: "\[", "\\\[" | replace: "\]", "\\\]" }}
 
 
