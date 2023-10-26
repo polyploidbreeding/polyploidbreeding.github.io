@@ -17,3 +17,6 @@ The in-presence kick-off meeting of the project **Polyploidbreeding** will take 
 3. Invited lecture: the genomic of polyploid durum and bread wheat
 4. Discussion
 5. Take-home tasks
+
+![SIS](https://github.githubassets.com/img/posts/az-mission-big.jpg)
+<div class="caption">**Figure**: Premises of S.I.S. (Società Italiana Sementi)</div>
