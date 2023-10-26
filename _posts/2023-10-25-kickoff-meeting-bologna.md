@@ -18,5 +18,5 @@ The in-presence kick-off meeting of the project **Polyploidbreeding** will take 
 4. Discussion
 5. Take-home tasks
 
-![SIS](/img/posts/az-mission-big.jpg)
-<div class="caption">**Figure**: Premises of S.I.S. (Società Italiana Sementi)</div>
+![SIS](/assets/img/posts/az-mission-big.jpg)
+<div class="caption"><b>Figure</b>: Premises of S.I.S. (Società Italiana Sementi)</div>
