@@ -14,7 +14,7 @@ The in-presence kick-off meeting of the project **Polyploidbreeding** will take 
 ### Tetnative programme
 1. General introduction
 2. Ongoing acvtivities
-3. Invited lecture: the genomic of polyploid durum and bread wheat
+3. Invited lecture: the genomics of polyploid durum and bread wheat
 4. Discussion
 5. Take-home tasks
 
