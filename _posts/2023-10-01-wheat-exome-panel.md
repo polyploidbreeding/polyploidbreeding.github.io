@@ -3,11 +3,12 @@ layout: post
 title: "Wheat exome sequencing panels"
 author: "Filippo Biscarini"
 date: "2023-11-02"
-categories: KNOWLEDGE BASE
+categories: "KNOWLEDGE BASE"
 tags: "polyploid genome" sequencing wheat exome
 ---
 
-From: IWGSC (International Wheat Genome Sequencing Consortium) webinar series
+Arbor Biosciences Exome Kit v1:
+- IWGSC RefSeq 1.0, *T. aestivum*: subgenomes A, B and D (14.5 Gbps)
 
 
 ### Sources
