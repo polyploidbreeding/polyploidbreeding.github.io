@@ -2,8 +2,8 @@
 layout: post
 title: "Wheat exome sequencing panels"
 author: "Filippo Biscarini"
-date: "2023-11-02"
-categories: KNOWLEDGEBASE
+date: "2023-10-01"
+categories: PROJECT
 ---
 
 Arbor Biosciences Exome Kit v1:
