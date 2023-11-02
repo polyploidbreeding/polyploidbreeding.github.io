@@ -16,18 +16,12 @@ Arbor Biosciences Exome Kit v1:
 
 ### Tags 
 
-{% for tag in post.tags %}
-	<b>{{ tag }}</b>
-{% endfor %}
-
-{% for tag in post.tags %}
-  {% assign tag_slug = tag | slugify: "raw" %}
-  <a
-    href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
-    rel="category tag">
-    #{{ tag }}
-  </a>
-{% endfor %}
+<span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
 
 
 {% if page.author %}
