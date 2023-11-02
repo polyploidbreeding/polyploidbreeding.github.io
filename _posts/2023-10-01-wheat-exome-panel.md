@@ -15,13 +15,6 @@ Arbor Biosciences Exome Kit v1:
 
 ### Tags 
 
-<span>[
-  {% for tag in site.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-  {% endfor %}
-]</span>
-
 
 {% if page.author %}
   {% include author/{{page.author}}.html %}
