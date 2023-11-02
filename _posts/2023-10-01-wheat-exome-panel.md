@@ -4,7 +4,6 @@ title: "Wheat exome sequencing panels"
 author: "Filippo Biscarini"
 date: "2023-11-02"
 categories: KNOWLEDGE-BASE
-tags: polyploid genome sequencing wheat exome
 ---
 
 Arbor Biosciences Exome Kit v1:
@@ -17,7 +16,7 @@ Arbor Biosciences Exome Kit v1:
 ### Tags 
 
 <span>[
-  {% for tag in page.tags %}
+  {% for tag in site.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
     <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
   {% endfor %}
