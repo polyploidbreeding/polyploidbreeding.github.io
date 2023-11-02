@@ -3,7 +3,7 @@ layout: post
 title: "Wheat exome sequencing panels"
 author: "Filippo Biscarini"
 date: "2023-11-02"
-categories: KNOWLEDGE-BASE
+categories: KNOWLEDGEBASE
 ---
 
 Arbor Biosciences Exome Kit v1:
@@ -12,8 +12,6 @@ Arbor Biosciences Exome Kit v1:
 
 ### Sources
 [Comprehensive Cost Effective Exome Sequencing with Arbor Biosciences Wheat Exome Panel](https://www.youtube.com/watch?v=8ExNVak8UTU)
-
-### Tags 
 
 
 {% if page.author %}
