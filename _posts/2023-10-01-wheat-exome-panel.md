@@ -14,9 +14,10 @@ Arbor Biosciences Exome Kit v1:
 ### Sources
 [Comprehensive Cost Effective Exome Sequencing with Arbor Biosciences Wheat Exome Panel](https://www.youtube.com/watch?v=8ExNVak8UTU)
 
+### Tags 
 {% for tag in post.tags %}
   {% assign tag_slug = tag | slugify: "raw" %}
-  <a class="tag-link"
+  <a
     href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
     rel="category tag">
     #{{ tag }}
