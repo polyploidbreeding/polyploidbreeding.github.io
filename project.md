@@ -20,13 +20,16 @@ starting point to then move to increasing levels of complexity with durum (tetra
 <div class="caption"><b>Figure</b>: overview of the project. Three cereal crop species have been chosen based on their increasing genome complexity: barley
 (*Hordeum vulgare*, diploid), durum wheat (*Triticum durum*, tetraploid), bread wheat (*Triticum aestivum*, hexaploid). 
 The project focuses on three key technologies: i) genome sequencing, ii) high-throughput phenotyping, iii) artificial intelligence, and on the
-development of tools for efficient breeding. [barley and wheat images from www.clipartmax.com and www.dreamstime.com]</div>
+development of tools for efficient breeding. 
+<span class="bylaw">[barley and wheat images from www.clipartmax.com and www.dreamstime.com]</span>
+</div>
+
 
 Target data are high-throughput phenotypes and genotypes, plus related environmental data ('enviromics', Resende et al. 2020) for
 multiomics (genomics + phenomics + enviromics) predictions. Phenotypes will include yield data, morphometric measurements,
-UAV (unmanned aerial vehicle: drone)-captured image data linked to morphology and production efficiency and rhizotron-based root
-scans (both 2D and 3D). Multispectral cameras will capture infrared and ultraviolet wavelengths. Machine-learning methods,
-focussing especially on deep learning methods, will be used for phenomic and whole-genome predictions of target phenotypes, with
+**UAV (unmanned aerial vehicle: drone)-captured image data** linked to morphology and production efficiency and **rhizotron-based root scans** (both 2D and 3D). 
+Multispectral cameras will capture infrared and ultraviolet wavelengths. 
+Machine-learning methods, focussing especially on **deep learning methods**, will be used for phenomic and whole-genome predictions of target phenotypes, with
 innovative data representations and neural network architectures.
 The project is going to unfold over two years, with these specific objectives 1) data generation: new data to fill the gaps (UAV- and
 rhizotron-captured phenotypes, sequence data) and integrate new and existing/historical data; 2) modeling and tool development for
@@ -38,10 +41,10 @@ toolbox available for cereal breeding.
 
 The roles and activities of each research unit in POLYPLOIDBREEDING 4.0 are schematically outlined below, organized into work
 packages (WP) including different Tasks (T). Beginning and end months are indicated. 
-The project partners CNR-IBBA and UNIBO will coordinate WPs and Tasks as specified below. 
-The subunit CREA will be involved in data generation and in deep learning modelling. 
-The breeding company SIS will serve as external in-kind contributor and will provide data and plant material. 
-Rhizotron phenotyping will be performed at the Forschungszentrum Jülich (Germany) in the framework of a
+The project partners **CNR-IBBA** and **UNIBO** will coordinate WPs and Tasks as specified below. 
+The subunit **CREA** will be involved in data generation and in deep learning modelling. 
+The breeding company **SIS** will serve as external in-kind contributor and will provide data and plant material. 
+Rhizotron phenotyping will be performed at the **Forschungszentrum Jülich (Germany)** in the framework of a
 scientific collaboration. 
 External services and providers will be used for UAV-phenotyping and for the genotyping of new plant material.
 
@@ -80,7 +83,7 @@ learning forecasting models to predict root development based on early-stage dat
 - T4.3 Develop deep learning models for whole-genome predictions of both traditionally-phenotyped and UAV/rhizotron-extracted
 traits, based on genotyping data. Innovative data representations (e.g. stacked kinship matrices, genotype segments) and neural
 network architectures (e.g. 2D-CNN, RNN) will be explored. Compare against standard benchmark predictive models in genomic
-selection (GBLUP, L1/L2-penalised regression, “Bayesian alphabet“, RKHS). Assess model errors and estimate the economic impact
+selection (GBLUP, L1/L2-penalised regression, 'Bayesian alphabet', RKHS). Assess model errors and estimate the economic impact
 in the scenario of drone- and rhizotron-based phenotyping (M10-22)
 
 #### WP 5: In-silico validation and tuning of developed models and tools (WP leader UNIBO), M 16-24
