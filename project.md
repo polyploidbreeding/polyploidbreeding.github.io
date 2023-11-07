@@ -1,5 +1,9 @@
+---
+layout: default
+title: Polyploidbreeding 4.0
+---
 
-## Plyploidbreeding 4.0
+### The project
 
 **Expanding the toolbox for cereal breeding: high-throughput genomics, 2D-3D phenomics and artificial intelligence for breeding with increasing genome complexity, from barley to durum and bread wheat (POLYPLOIDBREEDING 4.0)**
 
