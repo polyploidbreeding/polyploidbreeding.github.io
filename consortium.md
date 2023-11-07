@@ -16,8 +16,8 @@ My research activities span from plant and animal breeding & genetics, to bioinf
 </div>
 
 - [@CNR-IBBA](https://ibba.cnr.it/staff/filippo-biscarini/)
-- [bioinformateachers](https://bioinformateachers.github.io/filippo.html)
-- [ResearchGate](https://www.researchgate.net/profile/Filippo-Biscarini-2)
+- [@Bioinformateachers](https://bioinformateachers.github.io/filippo.html)
+- [@ResearchGate](https://www.researchgate.net/profile/Filippo-Biscarini-2)
 
 ## Università di Bologna
 
