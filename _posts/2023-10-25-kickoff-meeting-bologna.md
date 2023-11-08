@@ -26,5 +26,4 @@ The in-presence kick-off meeting of the project **Polyploidbreeding** will take 
 
 
 [back]({{ "../" | absolute_url }})
-[go_back](./)
 
