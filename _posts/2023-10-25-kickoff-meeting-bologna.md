@@ -4,6 +4,7 @@ title: "Kick-off meeting: Bologna"
 author: "Filippo Biscarini"
 date: "2023-10-25"
 categories: PROJECT
+tags: ['meeting','deliverable','milestone']
 ---
 
 The in-presence kick-off meeting of the project **Polyploidbreeding** will take place in <u>Bologna on 4-5 December 2023</u>.
@@ -22,3 +23,7 @@ The in-presence kick-off meeting of the project **Polyploidbreeding** will take 
 
 ![SIS](/assets/img/posts/az-mission-big.jpg)
 <div class="caption"><b>Figure</b>: Premises of S.I.S. (Società Italiana Sementi)</div>
+
+
+[back]({{ "../" | absolute_url }})
+
