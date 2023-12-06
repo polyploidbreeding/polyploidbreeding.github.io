@@ -15,11 +15,6 @@ The in-presence kick-off meeting of the project **Polyploidbreeding** will take 
 	- afternoon: 14:00 - 16:00
 
 ### Programme
-1. General introduction
-2. Ongoing acvtivities
-3. Invited lecture: the genomics of polyploid durum and bread wheat
-4. Discussion
-5. Take-home tasks
 
 1. Initial address from the Director General of S.I.S.
 2. General presentation of the project
@@ -39,6 +34,9 @@ The in-presence kick-off meeting of the project **Polyploidbreeding** will take 
 
 ![meeting](/assets/img/posts/meeting.png)
 <div class="caption"><b>Figure</b>: Group picture during the meeting</div>
+
+![dinner](/assets/img/posts/dinner.png)
+<div class="caption"><b>Figure</b>: Project dinner</div>
 
 [back]({{ "../" | absolute_url }})
 
