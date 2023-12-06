@@ -35,7 +35,7 @@ The in-presence kick-off meeting of the project **Polyploidbreeding** will take 
 ![meeting](/assets/img/posts/meeting.png)
 <div class="caption"><b>Figure</b>: Group picture during the meeting</div>
 
-![dinner](/assets/img/posts/dinner.png)
+![dinner](/assets/img/posts/dinner.jpeg)
 <div class="caption"><b>Figure</b>: Project dinner</div>
 
 [back]({{ "../" | absolute_url }})
