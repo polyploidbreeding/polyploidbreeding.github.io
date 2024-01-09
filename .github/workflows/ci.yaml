@@ -8,7 +8,7 @@ jobs:
     name: script/cibuild
     steps:
       - uses: actions/checkout@v3
-      - uses: ruby/setup-ruby@v1
+      - uses: ruby/setup-ruby
         with:
           ruby-version: 3.3
           bundler-cache: true
