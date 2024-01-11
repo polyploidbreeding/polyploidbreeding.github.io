@@ -1,7 +1,5 @@
 on:
-  push:
-  pull_request:
-    types: [opened, synchronize]
+  fork:
 jobs:
   build:
     runs-on: ubuntu-latest
