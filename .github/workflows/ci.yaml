@@ -8,10 +8,6 @@ jobs:
     name: script/cibuild
     steps:
       - uses: actions/checkout@v4
-#     - uses: ruby/setup-ruby@v1
-#        with:
-#          ruby-version: 3.0
-#          bundler-cache: true
       - name: build
         run: script/bootstrap
       - name: test
