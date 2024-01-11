@@ -24,7 +24,8 @@ Full job description: <https://ibba.cnr.it/bandi-e-avvisi/> and <https://ibba.cn
 
 To apply: send your application to <protocollo.ibba@pec.cnr.it>
 
-<u>Deadline</u>: **31 January 2024**
+<u>Deadline</u>: **31 January 2024** <br />
+Starting data: flexible, no later than August 2024
 
 For any clarifications, feel free to reach me at: <filippo.biscarini@cnr.it>
 
