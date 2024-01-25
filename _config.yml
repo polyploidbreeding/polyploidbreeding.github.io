@@ -4,10 +4,4 @@ description: PRIN 2022 (Settore LS2)
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-
-# Defaults
- defaults:
-   # _posts
-   - scope:
-     values:
-       mathjax: true
+mathjax: true
