@@ -48,8 +48,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.19666667"
-     inkscape:cx="-482.73235"
-     inkscape:cy="1295.7525"
+     inkscape:cx="-1395.4442"
+     inkscape:cy="1275.4135"
      inkscape:window-x="72"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -82,20 +82,20 @@
      inkscape:label="logo"
      style="display:inline">
     <rect
-       style="fill:none;fill-opacity:1;stroke:#007700;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#007700;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect960"
        width="708.05084"
        height="708.05084"
        x="294.91525"
        y="167.79663"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-xdpi="79.115356"
+       inkscape:export-ydpi="79.115356" />
     <g
        id="g956"
        transform="translate(48.941609,-31.694917)"
        style="fill:#007700;fill-opacity:1"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
+       inkscape:export-xdpi="79.115356"
+       inkscape:export-ydpi="79.115356">
       <path
          id="path858"
          d="M 592,589.73928 V 577.47857 L 574.43324,559.98928 C 564.77152,550.37018 555.66084,540.475 554.18729,538 c -2.5329,-4.25429 -2.69739,-5.31902 -3.01252,-19.5 l -0.33333,-15 24.57928,24.49235 L 600,552.48469 624.57928,527.99235 649.15856,503.5 l -0.33333,15 c -0.31513,14.18098 -0.47962,15.24571 -3.01252,19.5 -1.47355,2.475 -10.58423,12.37018 -20.24595,21.98928 L 608,577.47857 V 589.73928 622 h -8 -8 z"
@@ -149,8 +149,8 @@
        x="405.03442"
        y="711.54633"
        id="text960-5"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-xdpi="79.115356"
+       inkscape:export-ydpi="79.115356"><tspan
          sodipodi:role="line"
          x="405.03442"
          y="711.54633"
@@ -163,8 +163,8 @@
        y="811.58942"
        id="text960-3-5"
        transform="scale(1.0121765,0.98796997)"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-xdpi="79.115356"
+       inkscape:export-ydpi="79.115356"><tspan
          sodipodi:role="line"
          x="399.95453"
          y="811.58942"
