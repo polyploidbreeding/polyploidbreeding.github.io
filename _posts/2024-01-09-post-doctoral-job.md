@@ -4,6 +4,7 @@ title: "Recruiting: one-year post-doctoral research job in biostatistics"
 author: "Filippo Biscarini"
 date: "2024-01-09"
 categories: ['PROJECT']
+tags: ['project','milestone','personnel']
 ---
 
 **One-year** post-doctoral research job in **biostatistics** (neural network models for plant phenomics and genomics) within the context of the project [Polyploidbreeding 4.0](https://polyploidbreeding.ibba.cnr.it/).
