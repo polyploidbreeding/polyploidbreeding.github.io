@@ -1,13 +1,11 @@
 on:
-  push:
-  pull_request:
-    types: [opened, synchronize]
+  fork:
 jobs:
   build:
     runs-on: ubuntu-latest
     name: script/cibuild
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: build
         run: script/bootstrap
       - name: test

@@ -24,7 +24,14 @@ My research activities span from plant and animal breeding & genetics, to bioinf
 
 ## CREA: Consiglio per la Ricerca in Economia ed Agricoltura
 
-\[Nelson Nazzicari, Agostino Fricano\]
+**CREA-ZA representative**: Nelson Nazzicari, Ph.D.
+
+Bioinformatics, biostatistics, deep learning and general data science. More info at [@Bioinformateachers](https://bioinformateachers.github.io/nelson.html)
+
+<img src="/assets/img/pic_nelson.jpg" width="350" />
+<div class="caption"><b>Figure</b>: Nelson Nazzicari, CREA-ZA</div>
+
+\[Agostino Fricano\]
 
 ## SIS: Società Italiana Sementi
 

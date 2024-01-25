@@ -38,6 +38,7 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+	<hr>
 	<ul>
 		<li><a href="{{ "/project.html" | absolute_url }}">The project</a></li>
 		<li><a href="{{ "/consortium.html" | absolute_url }}">The people</a></li>
@@ -45,11 +46,18 @@
 		<li><a href="{{ "/tags.html" | absolute_url }}">List of posts by tag</a></li>
 		<li><a href="">Knowledge base</a></li>
 	</ul>
+	<hr>
+	<p>Start date: 28 September 2023</p>
+	<p>End date: 27 September 2025</p>
+	<hr>
+	<p><img src="/assets/img/IT_EU_POS_small.jpg" alt="Logo_EU" class="center" /> 
+	<!-- <small>Finanziato dall'Unione europea (<a href="{{ "https://next-generation-eu.europa.eu" | absolute_url }}">Next Generation EU</a>)</small> -->
+	</p>
       </header>
       <section>
 
       {{ content }}
-
+        
       </section>
       <footer>
         {% if site.github.is_project_page %}
