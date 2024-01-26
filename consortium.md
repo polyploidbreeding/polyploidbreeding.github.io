@@ -20,7 +20,7 @@ My research activities span from plant and animal breeding & genetics, to bioinf
 
 ## Università di Bologna
 
-\[Elisabetta Frascaroli\]
+\[Elisabetta Frascaroli, Matteo Bozzoli, Alessia Confortini\]
 
 ## CREA: Consiglio per la Ricerca in Economia ed Agricoltura
 
