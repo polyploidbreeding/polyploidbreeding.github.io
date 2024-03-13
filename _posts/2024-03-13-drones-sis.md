@@ -17,6 +17,6 @@ Updates will follow.
 <div class="caption"><b>Figure</b>: drone phenotyping over wheat field at SIS, San Lazzaro di Savena (BO)</div>
 
 <a href="/assets/img/posts/sis_drone_2_small.JPG"><img src="/assets/img/posts/sis_drone_2_small.JPG" alt="Drones at SIS"></a>
-<div class="caption"><b>Figure</b>: ``orthophoto'' of wheat fields at SIS</div>
+<div class="caption"><b>Figure</b>: "orthophoto" of wheat fields at SIS</div>
 
 

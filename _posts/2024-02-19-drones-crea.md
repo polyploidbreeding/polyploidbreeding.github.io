@@ -7,7 +7,7 @@ categories: ['PROJECT']
 tags: ['experiment','phenomics','milestone']
 ---
 
-On February 19th 2024, **drone phenotyping** has begun at the CREA barley (*Hordeum vulgare*) experimental fields in Fiorenzuola (PC), for barley (*Hordeum vulgare*).
+On February 19th 2024, **drone phenotyping** has begun at the CREA barley (*Hordeum vulgare*) experimental fields in Fiorenzuola (PC).
 This is the first of ten flights that will follow the entire growth of barley plants (different genotypes) from February to June.
 Updates will follow.
 
