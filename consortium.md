@@ -31,7 +31,18 @@ Bioinformatics, biostatistics, deep learning and general data science. More info
 <img src="/assets/img/pic_nelson.jpg" width="350" />
 <div class="caption"><b>Figure</b>: Nelson Nazzicari, CREA-ZA</div>
 
-\[Agostino Fricano\]
+**CREA-GB representative**: Agostino Fricano, Ph.D.
+
+I am a research scientist with extensive expertise in quantitative genetics and bioinformatics applied to genomics. 
+Beyond participating at several publicly funded research initiatives, in the past five years I coordinated "iBarMed", 
+an ERANET-ARIMNet2 project focused on the application of genomic selection for barley breeding and 
+“GENDIBAR” (PRIMA-S2, 2019-2023) which aimed at combining genomics and crop modelling to sustain barley breeding in the Mediterranean to cope with climate change. 
+Before joining CREA-GB, I worked for 5 years at the "Breeding & Trait Development" department of a seed multinational corporation, 
+holding different leadership positions of increasing responsibility.
+
+<img src="/assets/img/agostino.jpg" width="350" />
+<div class="caption"><b>Figure</b>: Agostino Fricano, CREA-GB</div>
+
 
 ## SIS: Società Italiana Sementi
 
