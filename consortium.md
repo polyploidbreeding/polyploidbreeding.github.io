@@ -31,6 +31,8 @@ Bioinformatics, biostatistics, deep learning and general data science. More info
 <img src="/assets/img/pic_nelson.jpg" width="350" />
 <div class="caption"><b>Figure</b>: Nelson Nazzicari, CREA-ZA</div>
 
+---
+
 **CREA-GB representative**: Agostino Fricano, Ph.D.
 
 I am a research scientist with extensive expertise in quantitative genetics and bioinformatics applied to genomics. 
