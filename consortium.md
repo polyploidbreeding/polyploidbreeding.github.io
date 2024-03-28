@@ -27,7 +27,8 @@ I have soon developed a strong interest in the field of genetics and genomics ap
 Over time, I have strenghtened my knowledge in genetics through the analysis of genomic ``big data'' (from sequencing platforms) with bioinformatic’s tools. 
 Main topics of research have been genome-wide association studies (GWAS) of production and type traits in cattle, and the detection of selection signatures in farm animals.
 My research activities have been interspersed with additional job experiences as employee in a company and in a national trade association. 
-These experiences allowed me to directly make contact with the Italian agri-business field and to promote the application of new knowledge on sustainable agriculture without ignoring farmers' economic targets.
+These experiences allowed me to directly make contact with the Italian agri-business field and to promote the application of new knowledge 
+on sustainable agriculture, considering both the long-term environmental impact and the economic targets of the farmers.
 
 ![Moscatelli](/assets/img/giulia.jpeg)
 <div class="caption"><b>Figure</b>: Giulia Moscatelli, CNR
