@@ -18,6 +18,21 @@ My research activities span from plant and animal breeding & genetics, to bioinf
 - [@CNR-IBBA](https://ibba.cnr.it/staff/filippo-biscarini/)
 - [@Bioinformateachers](https://bioinformateachers.github.io/filippo.html)
 
+---
+
+**Post-doctoral researcher**: Giulia Moscatelli, Ph.D.
+
+I obtained a Ph.D. in Agriculture, Environment and Food Science \& Technology from the Department of Animal Breeding, University of Bologna.
+I have soon developed a strong interest in the field of genetics and genomics applied to different biological systems, carrying out research activities mainly in livestock genetics. 
+Over time, I have strenghtened my knowledge in genetics through the analysis of genomic ``big data'' (from sequencing platforms) with bioinformatic’s tools. 
+Main topics of research have been genome-wide association studies (GWAS) of production and type traits in cattle, and the detection of selection signatures in farm animals.
+My research activities have been interspersed with additional job experiences as employee in a company and in a national trade association. 
+These experiences allowed me to directly make contact with the Italian agri-business field and to promote the application of new knowledge on sustainable agriculture without ignoring farmers' economic targets.
+
+![Moscatelli](/assets/img/giulia.jpeg)
+<div class="caption"><b>Figure</b>: Giulia Moscatelli, CNR
+</div>
+
 ## Università di Bologna
 
 \[Elisabetta Frascaroli, Matteo Bozzoli, Alessia Confortini\]
