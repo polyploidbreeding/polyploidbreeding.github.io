@@ -3,7 +3,7 @@ layout: post
 title: "Recruiting: one-year post-doctoral research job in biostatistics"
 author: "Filippo Biscarini"
 date: "2024-01-09"
-categories: ['PROJECT']
+categories: ['CONSORTIUM']
 tags: ['project','milestone','personnel']
 ---
 
