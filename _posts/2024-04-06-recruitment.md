@@ -17,4 +17,6 @@ Her tasks will include:
 
 Welcome to the project, Giulia!
 
+![giulia-moscatelli](/assets/img/posts/giulia_small.jpeg)
+
 
