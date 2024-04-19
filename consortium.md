@@ -34,11 +34,15 @@ on sustainable agriculture, considering both the long-term environmental impact 
 <div class="caption"><b>Figure</b>: Giulia Moscatelli, CNR
 </div>
 
-## Università di Bologna
+---
+
+### Università di Bologna
 
 \[Elisabetta Frascaroli, Matteo Bozzoli, Alessia Confortini\]
 
-## CREA: Consiglio per la Ricerca in Economia ed Agricoltura
+---
+
+### CREA: Consiglio per la Ricerca in Economia ed Agricoltura
 
 **CREA-ZA representative**: Nelson Nazzicari, Ph.D.
 
@@ -46,8 +50,6 @@ Bioinformatics, biostatistics, deep learning and general data science. More info
 
 <img src="/assets/img/pic_nelson.jpg" width="350" />
 <div class="caption"><b>Figure</b>: Nelson Nazzicari, CREA-ZA</div>
-
----
 
 **CREA-GB representative**: Agostino Fricano, Ph.D.
 
@@ -63,8 +65,12 @@ holding different leadership positions of increasing responsibility.
 
 ---
 
-## SIS: Società Italiana Sementi
+### SIS: Società Italiana Sementi
 
-\[Eder Groli, Paolo De Franceschi\]
+**Eder Groli**
 
+I obtained my BSc. degree in Agronomy at the Federal University of Pelotas (Brazil) in 2014. In 2016, I concluded my MSc. degree in Agronomy (Genetics and Plant Breeding) at the University of São Paulo "Júlio de Mesquita Filho", campus Jaboticabal (Brazil). In 2020, I obtained my PhD degree in Agricultural, Environmental and Food Science and Technology (Genetics and Plant Breeding) at the University of Bologna (Italy). My PhD project was funded by the Monsanto’s Beachell-Borlaug International Scholars Program (MBBISP) and focused on dissecting the heat-stress QTLome in durum wheat. During my academic and professional carrier, I have developed and increased my expertise in plant genetics, plant breeding, molecular analysis, statistical approaches, field trials experimentation, and high-throughput phenotyping. Since 2020, I am a Plant breeder at S.I.S. Società Italiana Sementi S.p.A., in Italy. My activities are focused on the development of new common and durum wheat varieties with superior performance for the most important agronomical and qualitative traits.
 
+**Paolo De Franceschi**
+
+Work in progress.

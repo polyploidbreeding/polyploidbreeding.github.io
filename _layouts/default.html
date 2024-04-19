@@ -11,6 +11,23 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+
+     <script type="text/javascript" async
+   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML">
+ </script>
+
+ <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      extensions: ["tex2jax.js"],
+      jax: ["input/TeX", "output/HTML-CSS"],
+      tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true
+      },
+      "HTML-CSS": { availableFonts: ["TeX"] }
+    });
+ </script>
   </head>
   <body>
     <div class="wrapper">
@@ -38,18 +55,26 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+	<hr>
 	<ul>
-	<li><a href="/project.html">The project</a></li>
-	<li><a href="/consortium.html">The people</a></li>
-	<li><a href="/blog.html">All posts</a></li>
-	<li><a href="">List of posts by category</a></li>
-	<li><a href="">Knowledge base</a></li>
+		<li><a href="{{ "/project.html" | absolute_url }}">The project</a></li>
+		<li><a href="{{ "/consortium.html" | absolute_url }}">The people</a></li>
+		<li><a href="{{ "/blog.html" | absolute_url }}">List of posts by category</a></li>
+		<li><a href="{{ "/tags.html" | absolute_url }}">List of posts by tag</a></li>
+		<li><a href="">Knowledge base</a></li>
 	</ul>
+	<hr>
+	<p>Start date: 28 September 2023</p>
+	<p>End date: 27 September 2025</p>
+	<hr>
+	<p><img src="/assets/img/IT_EU_POS_small.jpg" alt="Logo_EU" class="center" /> 
+	<!-- <small>Finanziato dall'Unione europea (<a href="{{ "https://next-generation-eu.europa.eu" | absolute_url }}">Next Generation EU</a>)</small> -->
+	</p>
       </header>
       <section>
 
       {{ content }}
-
+        
       </section>
       <footer>
         {% if site.github.is_project_page %}
