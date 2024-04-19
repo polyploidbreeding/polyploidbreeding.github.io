@@ -44,14 +44,14 @@ on sustainable agriculture, considering both the long-term environmental impact 
 
 ### CREA: Consiglio per la Ricerca in Economia ed Agricoltura
 
-**CREA-ZA representative**: Nelson Nazzicari, Ph.D.
+**CREA-ZA representative**: <u>Nelson Nazzicari, Ph.D.</u>
 
 Bioinformatics, biostatistics, deep learning and general data science. More info at [@Bioinformateachers](https://bioinformateachers.github.io/nelson.html)
 
 <img src="/assets/img/pic_nelson.jpg" width="350" />
 <div class="caption"><b>Figure</b>: Nelson Nazzicari, CREA-ZA</div>
 
-**CREA-GB representative**: Agostino Fricano, Ph.D.
+**CREA-GB representative**: <u>Agostino Fricano, Ph.D.</u>
 
 I am a research scientist with extensive expertise in quantitative genetics and bioinformatics applied to genomics. 
 Beyond participating at several publicly funded research initiatives, in the past five years I coordinated "iBarMed", 
