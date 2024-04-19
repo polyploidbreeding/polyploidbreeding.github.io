@@ -7,7 +7,7 @@ title: The project partners
 
 ### CNR: Consiglio Nazionale delle Ricerche (National Research Council)
 
-**Project coordinator**: Filippo Biscarini, Ph.D.
+**Project coordinator**: <u>Filippo Biscarini, Ph.D.</u>
 
 My research activities span from plant and animal breeding & genetics, to bioinformatics and biostatistics applications in plant & animal science and human medicine. I worked for the breeding industry, for universities and research centres in many places: Italy, Ireland, Canada, The Netherlands, Germany, Spain, The United Kingdom, Belgium. I am now Senior Scientist at CNR, where I rejoined my research group after a 2-yr secondment at the Data Analysis Team of the ERC (European Research Council). Current focus is on machine learning and deep learning methods for data analysisi n life science.
 
@@ -20,7 +20,7 @@ My research activities span from plant and animal breeding & genetics, to bioinf
 
 ---
 
-**Post-doctoral researcher**: Giulia Moscatelli, Ph.D.
+**Post-doctoral researcher**: <u>Giulia Moscatelli, Ph.D.</u>
 
 I obtained a Ph.D. in Agriculture, Environment and Food Science \& Technology from the Department of Animal Breeding, University of Bologna.
 I have soon developed a strong interest in the field of genetics and genomics applied to different biological systems, carrying out research activities mainly in livestock genetics. 
