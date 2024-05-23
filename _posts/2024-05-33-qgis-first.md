@@ -89,4 +89,18 @@ To do so, and save separate files for each subplot, we first need to **select th
 <div class="caption"><b>Figure</b>: Screenshot of the QGIS graphical user interface</div>
 
 
+Now we have three image files for the three subplots in the original orthomosaic image: job done!
 
+<a href="/assets/img/posts/block1.png"><img src="/assets/img/posts/block1.png" alt="subplot of field"></a>
+<a href="/assets/img/posts/block2.png"><img src="/assets/img/posts/block2.png" alt="subplot of field"></a>
+<a href="/assets/img/posts/block3.png"><img src="/assets/img/posts/block3.png" alt="subplot of field"></a>
+
+### What's next?
+
+All right, we learnt how to read the orthomosaic, make the shape file and use it to split the orthomosaic into the relevant subplots.
+Still, a couple of challenges are immediately obvious:
+
+1. the process outlined above is pretty laborious: can we **automate the splitting of the orthomosaic** into the subplot images?
+2. the geo-referenced orthomosaic is tilted (this depends on the GIS coordinates): is there a way to **rotate it** if our objective is to extract the subplots?
+
+We'll deal with these issues in our <u>next post</u> of this introductory tutorial to QGIS. 
