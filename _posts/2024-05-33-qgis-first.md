@@ -33,7 +33,7 @@ accompanied by a `.tfw` file of GIS coordinated ([TFW](https://fileinfo.com/exte
 
 For example, we can look at the image below, where we have three geo-referenced plots that need to be separated for further processing.
 
-<a href="/assets/img/posts/sis_drone_1_small.JPG"><img src="/assets/img/posts/example_fields.jpg" alt="Example image file of an agricultural field"></a>
+<a href="/assets/img/posts/example_fields.jpg"><img src="/assets/img/posts/example_fields.jpg" alt="Example image file of an agricultural field"></a>
 <div class="caption"><b>Figure</b>: Example image file of an agricultural field</div>
 
 #### 1. Import the orthomosaic in QGIS
@@ -70,4 +70,21 @@ To make a **new shape file** in QGIS we can do the following:
 	- save the shape file: `Layer` > `Save Layer Edits`
 
 You may want to make sure that, besides having created the shapefile layer and saved it within your project, you save the sahpfile layer to an **external shape file**, for future use. 
+
+#### 3. Clip the raster image based on the shape file
+
+Now that we have the orthomosaic raster image file and the shape file, we can **split the orthomosaic into the subplots of interest** based on the shapes drawn in the shape file.
+To do so, and save separate files for each subplot, we first need to **select the shape (area) to export**:
+
+1. in the **`Layers` panel** (bottom-left), **right-click on the shapefile layer**, and select `Open Attribute Table`;
+2. in the pop-up `Attribute Table`, **select the desired shape** by **clicking on it** (it will be highlighted, e.g. in blue)
+3. now, from the top menu: `Raster` > `Extraction` > `Clip Raster by Mask Layer`:
+	- select the raster image as **input layer**
+	- select the shapefile layer as **mask layer**
+	- **flag the `Selected feature only` option* (<u>this is important</u>: it will clip only the selected shape from the Attribute Table)
+	- **click on `Run`**
+4. once the clipped shape has been extracted, you have to save it to an external file, by **right-clicking on the corresponding layer** (bottom-left panel of the GUI), and selecting `Save as`
+	
+<a href="/assets/img/posts/qgis_gui.jpg"><img src="/assets/img/posts/qgis_gui.jpg" alt="Screenshot of the QGIS GUI"></a>
+<div class="caption"><b>Figure</b>: Screenshot of the QGIS graphical user interface</div>
 
