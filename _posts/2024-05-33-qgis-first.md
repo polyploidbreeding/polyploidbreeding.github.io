@@ -85,6 +85,8 @@ To do so, and save separate files for each subplot, we first need to **select th
 	- **click on `Run`**
 4. once the clipped shape has been extracted, you have to save it to an external file, by **right-clicking on the corresponding layer** (bottom-left panel of the GUI), and selecting `Save as`
 	
-<a href="/assets/img/posts/qgis_gui.jpg"><img src="/assets/img/posts/qgis_gui.jpg" alt="Screenshot of the QGIS GUI"></a>
+<a href="/assets/img/posts/qgis_gui.png"><img src="/assets/img/posts/qgis_gui.png" alt="Screenshot of the QGIS GUI"></a>
 <div class="caption"><b>Figure</b>: Screenshot of the QGIS graphical user interface</div>
+
+
 
