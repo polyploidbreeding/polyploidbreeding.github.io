@@ -21,10 +21,15 @@ A few introductory assumptions:
 
 For the installation of QGIS and for technical details, you can have a look at the official documentation ([here](https://www.qgis.org/en/site/forusers/download.html)).
 
+There are two basic types of image files that are processed in QGIS: 1) **raster images** (pixel based images), and 2) **vectorial images**.
+In this tutorial, in a first instance we will focus on raster images.
+
 ### Splitting the orthomosaic in subimages
 
 Let's say that our objective is to extract interesting areas from the orthomosaic: in the case of the **polyploidbreeding project** these will be 
 the different field plots where different accessions are planted or treatments applied.
+Geo-referenced orthomosaic image files are typically in the `.tiff` format ([tagged image file format](https://en.wikipedia.org/wiki/TIFF)),
+accompanied by a `.tfw` file of GIS coordinated ([TFW](https://fileinfo.com/extension/tfw)).
 
 For example, we can look at the image below, where we have three geo-referenced plots that need to be separated for further processing.
 
@@ -40,4 +45,29 @@ To create a project, once you opened QGIS, you will use the main menu (top bar):
 - ii) `Project` > `Save`: choose a **location** (**directory**) and a **name** where to save the project; this will create a `.qgz` file
 - iii) <u>useful tip</u>: go to `Project` > `Properties` and sett the `Project home` folder; this will make it much easier to browse for input/output files and folders
 
+Now that we have our QGIS project, we can import the orthomosaic image file (a single image of the whole agricultural field): 
+from the software menu bar: `Layer` > `Add Layer` > `Add Raster Layer`, and **select the input .tiff/.tif image file**.
+
+#### 2. The shape file
+
+The second ingredient of geo-referenced image file analysis is the **shape file**: this is a file that indicates the boundaries of the areas of interest in the image file, i.e. the experimental plots in our example.
+
+The shape file may be already available (from the preprocessing of drone-phenotyping images), or can be designed by the user. We take this second case, in this first post on QGIS and the processing of orthomosaic image files.
+
+To make a **new shape file** in QGIS we can do the following:
+
+1. `Layer` > `Create Layer` > `New Shapefile Layer`:
+	- here you specify the file name (and location/filename of where to save it for future use)
+	- `Geometry type`: e.g. `Polygon` if you need to draw an area (like in the case of field sub-plots)
+	- define additional **attributes**: `New field`: i) id (default); ii) name; iii) etc.
+2. draw shapes (ares); for this we use the *Editing tool*:
+	- `Layer` > `Toggle Editing`
+	- now click on the **`Polygon` icon** on the top toolbar
+	- using the mouse, now **left-click** on the raster image, in the point where you want to start drawing your shape
+	- with the mouse, **keep left-clicking** until you have completed drawing your shape (area)
+	- to stop drawing, **right-click** with the mouse
+	- a **dialogue box** will now appear: you must add the **attributes**, i.e. the `id` and `name` of each subplot
+	- save the shape file: `Layer` > `Save Layer Edits`
+
+You may want to make sure that, besides having created the shapefile layer and saved it within your project, you save the sahpfile layer to an **external shape file**, for future use. 
 
