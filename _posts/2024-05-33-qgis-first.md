@@ -19,8 +19,25 @@ A few introductory assumptions:
 - we take the standpoint of RGB camera and RGB image files (three channels): things will be a bit different with image data from thermic or multi-spectral cameras
 - we used QGIS installed on a Debian/Ubuntu Linux distribution (some details may be a bit different if you use another operating system)
 
+For the installation of QGIS and for technical details, you can have a look at the official documentation ([here](https://www.qgis.org/en/site/forusers/download.html)).
+
+### Splitting the orthomosaic in subimages
+
+Let's say that our objective is to extract interesting areas from the orthomosaic: in the case of the **polyploidbreeding project** these will be 
+the different field plots where different accessions are planted or treatments applied.
+
+For example, we can look at the image below, where we have three geo-referenced plots that need to be separated for further processing.
+
 <a href="/assets/img/posts/sis_drone_1_small.JPG"><img src="/assets/img/posts/example_fields.jpg" alt="Example image file of an agricultural field"></a>
 <div class="caption"><b>Figure</b>: Example image file of an agricultural field</div>
 
+#### 1. Import the orthomosaic in QGIS
+
+First, we suggest that you **create a QGIS project**: this will make it easier to handle input files, output folders and option setting.
+To create a project, once you opened QGIS, you will use the main menu (top bar): 
+
+- i) you click on `Project` > `New`
+- ii) `Project` > `Save`: choose a **location** (**directory**) and a **name** where to save the project; this will create a `.qgz` file
+- iii) <u>useful tip</u>: go to `Project` > `Properties` and sett the `Project home` folder; this will make it much easier to browse for input/output files and folders
 
 
