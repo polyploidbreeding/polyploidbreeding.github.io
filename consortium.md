@@ -40,6 +40,8 @@ on sustainable agriculture, considering both the long-term environmental impact 
 
 \[Elisabetta Frascaroli, Matteo Bozzoli, Alessia Confortini\]
 
+In progress
+
 ---
 
 ### CREA: Consiglio per la Ricerca in Economia ed Agricoltura
@@ -79,4 +81,3 @@ I also had the opportunity to conduct part of my work at research institutes abr
 My research activity is primarily focused on the identification and characterization of genes involved in self-incompatibility mechanisms, pollen-pistil interactions, and other traits of qualitative or productive importance in different agriculturally relevant species (fruit crops and cereals). 
 Since 2020, I have been working as a researcher at SIS - Società Italiana Sementi, where I focus on cereal breeding and research projects aimed at the implementation of advanced technologies.
 
-Work in progress.
