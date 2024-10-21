@@ -73,4 +73,10 @@ I obtained my BSc. degree in Agronomy at the Federal University of Pelotas (Braz
 
 **Paolo De Franceschi**
 
+I obtained my degree in Plant Biotechnology and later my PhD at the University of Bologna. 
+I worked in research for several years, first at the University of Bologna and later at CREA-CI, focusing on plant genetics and molecular biology. 
+I also had the opportunity to conduct part of my work at research institutes abroad (CITA-Aragon, Spain and Michigan State University, USA). 
+My research activity is primarily focused on the identification and characterization of genes involved in self-incompatibility mechanisms, pollen-pistil interactions, and other traits of qualitative or productive importance in different agriculturally relevant species (fruit crops and cereals). 
+Since 2020, I have been working as a researcher at SIS - Società Italiana Sementi, where I focus on cereal breeding and research projects aimed at the implementation of advanced technologies.
+
 Work in progress.
