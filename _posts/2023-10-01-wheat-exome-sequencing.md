@@ -3,7 +3,7 @@ layout: post
 title: "Wheat: exome sequencing"
 author: "Filippo Biscarini"
 date: "2023-10-01"
-categories: ['KNOWLEDGE BASE']
+categories: ['KNOWLEDGE_BASE']
 ---
 
 Arbor Biosciences Exome Kit v1:
