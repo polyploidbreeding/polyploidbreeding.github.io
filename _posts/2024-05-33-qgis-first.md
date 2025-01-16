@@ -3,7 +3,7 @@ layout: post
 title: "Using QGIS: basic introduction - 1"
 author: "Filippo Biscarini"
 date: "2024-05-23"
-categories: ['KNOWLEDGE BASE']
+categories: ['KNOWLEDGE_BASE']
 tags: ['qgis','images','informatics']
 ---
 
