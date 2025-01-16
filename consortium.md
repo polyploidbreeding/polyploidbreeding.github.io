@@ -38,7 +38,7 @@ on sustainable agriculture, considering both the long-term environmental impact 
 
 ### Università di Bologna
 
-\[Elisabetta Frascaroli, Matteo Bozzoli, Alessia Confortini\]
+\[Elisabetta Frascaroli, Matteo Bozzoli, Roshan Paudel\]
 
 In progress
 
