@@ -17,13 +17,14 @@ Dr. Kerstin Nagel and Dr. Fabio Fiorani from the Forschungszentrum Jülich.
 **Root phenotyping** is ongoing: 15 January - 15 February 2025.
 
 #### The rhizotron platform
-
-<a href="/assets/img/posts/rhizotron_0.jpeg"><img src="/assets/img/posts/rhizotron_0.jpeg" alt="rhizotron"></a>
 <div class="caption"><b>Figure</b>: rhizotron platform and photocameras</div>
+<a href="/assets/img/posts/rhizotron_0.jpeg"><img src="/assets/img/posts/rhizotron_0.jpeg" alt="rhizotron"></a>
 
-<a href="/assets/img/posts/rhizotron_1.jpeg"><img src="/assets/img/posts/rhizotron_1.jpeg" alt="mock rhizotron"></a>
 <div class="caption"><b>Figure</b>: model rhizotron to illustrate the basic functioning</div>
+<a href="/assets/img/posts/rhizotron_1.jpeg"><img src="/assets/img/posts/rhizotron_1.jpeg" alit="mock rhizotron"></a>
 
+<div class="caption"><b>Figure</b>: preparation of Petri dishes: 3 dishes per wheat genotype, 10 seeds per dish</div>
+<a href="/assets/img/posts/petri_dish.jpeg"><img src="/assets/img/posts/petri_dish.jpeg" alit="petri dish"></a>
 
 
 
