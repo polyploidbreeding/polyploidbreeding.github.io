@@ -10,6 +10,7 @@ the scientific disciplines covered by the project.
 
 <ul>
 {% for category in site.categories %}
+ {% if post.categories contains "KNOWLEDGE BASE" %}
   <li><a name="{{ category | first }}">{{ category | first }}</a>
     <ul>
     {% for post in category.last %}
@@ -17,6 +18,7 @@ the scientific disciplines covered by the project.
     {% endfor %}
     </ul>
   </li>
+ {% endif %}
 {% endfor %}
 </ul>
 
