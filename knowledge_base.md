@@ -9,7 +9,7 @@ Here we list the posts that fall in the category "knowledge base", where we writ
 the scientific disciplines covered by the project.
 
 <ul>
-{% for category in site.categories.knowledge-base %}
+{% for category in site.categories.project %}
   <li><a name="{{ category | first }}">{{ category | first }}</a>
     <ul>
     {% for post in category.last %}
