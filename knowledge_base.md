@@ -10,9 +10,9 @@ the scientific disciplines covered by the project.
 
 <ul>
 {% for category in site.categories.KNOWLEDGE_BASE %}
-  <li><a name="{{ category | first }}">{{ category | first }}</a>
+  <li><a name="{{ category }}">{{ category }}</a>
     <ul>
-    {% for post in category.last %}
+    {% for post in category %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     </ul>
