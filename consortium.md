@@ -38,7 +38,23 @@ on sustainable agriculture, considering both the long-term environmental impact 
 
 ### Università di Bologna
 
-\[Elisabetta Frascaroli, Matteo Bozzoli, Roshan Paudel\]
+**Post-doctoral researcher**  <u>Roshan Paudel</u>
+
+I obtained my M.Sc. degree in Sustainable Agriculture majoring in plant breeding from the University of Padova, Italy. 
+My research experience spans multiple institutions, including MBG-CSIC in Spain, where I did my thesis, 
+and Nepal Agriculture Research Council (NARC), where I worked on genotyping, high-throughput phenotyping, 
+and molecular biology techniques in plant breeding programs. 
+My thesis focused on the identification and verification of DTF 9.4, a QTL that regulates photoperiodic 
+flowering in common beans, contributing to the understanding of genetic mechanisms influencing crop adaptation. 
+Currently, I am a Research fellow at the University of Bologna and my research aims 
+to advance the understanding and application of genomics in the breeding of polyploid crop species.
+
+![Paudel](/assets/img/roshan_photo.jpg)
+<div class="caption"><b>Figure</b>: Roshan Paudel, Università di Bologna
+</div>
+
+
+\[Elisabetta Frascaroli, Matteo Bozzoli\]
 
 In progress
 
