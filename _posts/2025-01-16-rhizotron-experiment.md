@@ -26,6 +26,9 @@ Dr. Kerstin Nagel and Dr. Fabio Fiorani from the Forschungszentrum Jülich.
 <div class="caption"><b>Figure</b>: preparation of Petri dishes: 3 dishes per wheat genotype, 10 seeds per dish</div>
 <a href="/assets/img/posts/petri_dish.jpeg"><img src="/assets/img/posts/petri_dish.jpeg" alit="petri dish"></a>
 
+<div class="caption"><b>Figure</b>: rhizotron experiment, status of plants after two weeks (27 January 2025))</div>
+<a href="/assets/img/posts/rhizotron_27_jan.jpeg"><img src="/assets/img/posts/rhizotron_27_jan.jpeg" alit="rhizotron experiment: 2nd week"></a>
+
 
 
 
