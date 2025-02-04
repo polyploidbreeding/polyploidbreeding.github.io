@@ -11,5 +11,5 @@ On January 29-31, Dr. Filippo Biscarini from CNR and Dr. Nelson Nazzicari from C
 where they met the colleagues Dr. Fabio Fiorani and Dr. Kerstin Nagel.
 
 <div class="caption"><b>Figure</b>: Some of us in the facilities at Juelich's Forschungszentrum</div>
-<a href="/assets/img/posts/us_in_juelich.jpeg"><img src="/assets/img/posts/us_in_juelich.jpeg" alt="Juelichs Forschungszentrum"></a>
+<a href="/assets/img/posts/us_in_julich.jpeg"><img src="/assets/img/posts/us_in_julich.jpeg" alt="Juelichs Forschungszentrum"></a>
 
