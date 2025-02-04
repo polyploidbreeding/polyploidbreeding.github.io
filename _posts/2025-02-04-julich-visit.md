@@ -22,8 +22,11 @@ This was also an occasion to have a chat with Giulia Moscatelli, who is carrying
 <div class="caption"><b>Figure</b>: some of us in the facilities at Juelich's Forschungszentrum</div>
 <a href="/assets/img/posts/us_in_julich.jpeg"><img src="/assets/img/posts/us_in_julich.jpeg" alt="Juelichs Forschungszentrum"></a>
 
+<div class="caption"><b>Figure</b>: the rhizotron automated platform</div>
+<a href="/assets/img/posts/rhizotron_live.jpeg"><img src="/assets/img/posts/rhizotron_live.jpeg" alt="rhizotron platform"></a>
+
 <div class="caption"><b>Figure</b>: durum wheat plants growing in the rhizotron platform (two weeks from the start of the experiment)</div>
-<a href="/assets/img/posts/rhizotron_live.jpeg"><img src="/assets/img/posts/rhizotron_live.jpeg" alt="rhizotron live"></a>
+<a href="/assets/img/posts/rhizotron_live_2.jpeg"><img src="/assets/img/posts/rhizotron_live_2.jpeg" alt="rhizotron live"></a>
 
 <div class="caption"><b>Figure</b>: facility for magnetic resonance imaging of plant root systems at the Jülich Forschungszentrum</div>
 <a href="/assets/img/posts/mri.jpeg"><img src="/assets/img/posts/mri.jpeg" alt="Magnetic resonance imaging"></a>
