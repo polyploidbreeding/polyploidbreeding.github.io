@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visiting Juelich's Forschungszentrum"
+title: "Visiting Jülich's Forschungszentrum"
 author: "Filippo Biscarini"
 date: "2025-02-04"
 categories: ['PROJECT']
