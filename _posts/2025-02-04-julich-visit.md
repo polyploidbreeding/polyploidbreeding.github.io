@@ -7,7 +7,7 @@ categories: ['PROJECT']
 tags: ['consortium','juelich','rhizotron','meeting']
 ---
 
-On January 29-31, Dr. Filippo Biscarini from CNR and Dr. Nelson Nazzicari from CREA visited the [Forschungszentrum in Jülich](https://www.fz-juelich.de/de) (Germany), 
+On January 29-31 2025, Dr. Filippo Biscarini from CNR and Dr. Nelson Nazzicari from CREA visited the [Forschungszentrum in Jülich](https://www.fz-juelich.de/de) (Germany), 
 where they met the colleagues Dr. Fabio Fiorani and Dr. Kerstin Nagel.
 
 We visited the premises and facilities available at Forschungszentrum Jülich, including the rhizotron automated platform, 
