@@ -30,3 +30,6 @@ This was also an occasion to have a chat with Giulia Moscatelli, who is carrying
 
 <div class="caption"><b>Figure</b>: facility for magnetic resonance imaging of plant root systems at the Jülich Forschungszentrum</div>
 <a href="/assets/img/posts/mri.jpeg"><img src="/assets/img/posts/mri.jpeg" alt="Magnetic resonance imaging"></a>
+
+<div class="caption"><b>Figure</b>: experimental plant specimen in controlled conditions</div>
+<a href="/assets/img/posts/pflanz.jpeg"><img src="/assets/img/posts/pflanz.jpeg" alt="Pflanz: bitte nicht gießen"></a>
