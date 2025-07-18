@@ -15,17 +15,18 @@ University of Bologna](https://www.google.be/maps/place/Facolt%C3%A0+Agraria+Bol
 
 ### Programme
 
-1. Initial address from the Director General of S.I.S.
-2. General presentation of the project
-3. Scientific lecture: "Genomics of polyploid wheats: durum (4x) and bread (6x)"
-4. Discussion of ongoing activities:
-	- field trials: barley, durum wheat, bread wheat
-	- drone phenotyping
-	- genotyping strategy
-	- climate variables
-5. presentation of breeding programmes at S.I.S.
-6. presentation of project website and discussion on social media platforms: 
-7. wrap-up discussion
+1. Project recap: where we stand after 1.75 years
+2. The drone and rhizotron experiments
+3. Coffee break + group picture
+4. Genotyping and GWAS
+5. Udate on sequencing of polyploid wheat species
+6. Integration of historical genotyping/genomic data on wheat and barley
+7. Publication plan and priorities
+8. [EUCARPIA "Biometrics in Plant Breeding" 2025](https://highlanderlab.github.io/EUCARPIA2025BiometricsPlantBreeding/), 17-19 September
+	- organization of the journey
+	- early-bird registration by 22/07
+	- poster to be prepared
+9. Final meeting of the project: CREA-GB, Fiorenzuola, February 2026
 
 
 ![meeting](/assets/img/posts/group_pic_2025_unibo.jpeg)
