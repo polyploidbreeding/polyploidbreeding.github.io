@@ -10,8 +10,8 @@ tags: ['meeting','deliverable','milestone']
 The 2025 annual meeting of the  **Polyploidbreeding** has taken place at the [Faculty of Agriculture,
 University of Bologna](https://www.google.be/maps/place/Facolt%C3%A0+Agraria+Bologna/@44.5167973,11.3641784,13z/data=!4m6!3m5!1s0x477e2c908b2fce13:0xf5065d79dff324bf!8m2!3d44.5137272!4d11.4068032!16s%2Fg%2F11cst02zgz?hl=en&entry=ttu&g_ep=EgoyMDI1MDcxNS4xIKXMDSoASAFQAw%3D%3D), on July 17-18 2025.
 
-- social dinner, July 17th at 20:30
-- project meeting at the Faculty of Agriculture,  9:00 - 13:30
+- social dinner, Thursday July 17th at 20:30
+- project meeting at the Faculty of Agriculture, Friday July 18th, 9:00-13:30
 
 ### Programme
 
@@ -28,14 +28,9 @@ University of Bologna](https://www.google.be/maps/place/Facolt%C3%A0+Agraria+Bol
 7. wrap-up discussion
 
 
-![SIS](/assets/img/posts/az-mission-big.jpg)
-<div class="caption"><b>Figure</b>: Premises of S.I.S. (Società Italiana Sementi)</div>
+![meeting](/assets/img/posts/group_pic_2025_unibo.jpeg)
+<div class="caption"><b>Figure</b>: Group picture at the University of Bologna (Faculty of Agriculture)</div>
 
-![meeting](/assets/img/posts/meeting.png)
-<div class="caption"><b>Figure</b>: Group picture during the meeting</div>
-
-![dinner](/assets/img/posts/dinner.jpeg)
-<div class="caption"><b>Figure</b>: Project dinner</div>
 
 [back]({{ "../" | absolute_url }})
 
