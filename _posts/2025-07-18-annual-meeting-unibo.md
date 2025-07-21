@@ -26,7 +26,7 @@ University of Bologna](https://www.google.be/maps/place/Facolt%C3%A0+Agraria+Bol
 	- organization of the journey
 	- early-bird registration by 22/07
 	- poster to be prepared
-9. Final meeting of the project: CREA-GB, Fiorenzuola, February 2026
+9. Final meeting of the project: [CREA-GB](https://www.crea.gov.it/web/genomica-e-bioinformatica), Fiorenzuola, February 2026
 
 
 ![meeting](/assets/img/posts/group_pic_2025_unibo.jpeg)
