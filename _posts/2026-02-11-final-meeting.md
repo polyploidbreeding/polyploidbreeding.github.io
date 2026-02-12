@@ -11,6 +11,9 @@ On February 10-11 2026, the final meeting of the **Polyploidbreeding** project t
 We have been graciously hosted by our colleagues at [CREA-GB](https://www.crea.gov.it/web/genomica-e-bioinformatica) in Fiorenzuola:
 as the saying goes, *see Fiorenzuola, then die* ;-)
 
+<a href="/assets/img/posts/group-photo-fiorenzuola.jpeg"><img src="/assets/img/posts/group-photo-fiorenzuola.jpeg" alt="Final meeting"></a>
+<div class="caption"><b>Figure</b>: group photo of the project team at the final meeting in Fiorenzuola (CREA-GB)</div>
+
 The meeting program was the following:
 
 - social dinner, February 10th
@@ -32,9 +35,6 @@ As for ongoing scientific publications:
 - work and article on root traits: leader Roberta Rossi
 - work and article on computer vision: leaders Nelson Nazzicari & Filippo Biscarini
 - work and article on GWAS: leaders Roshan Paudel & Elisabetta Frascaroli
-
-<a href="/assets/img/posts/group-photo-fiorenzuola.jpeg"><img src="/assets/img/posts/group-photo-fiorenzuola.jpeg" alt="Final meeting"></a>
-<div class="caption"><b>Figure</b>: group photo of the project team at the final meeting in Fiorenzuola (CREA-GB)</div>
 
 
 
