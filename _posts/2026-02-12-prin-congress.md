@@ -18,7 +18,9 @@ This of course included our project Polyploidbreeding.
 The conference program was split in:
 
 - morning session on the presentation of results from the twelve PRIN projects on durum wheat
-- afternoon session with round tables on durum wheat breeding and management with relevatn stakeholders
+- afternoon session with round tables on durum wheat breeding and management with relevant stakeholders
 
 The congress was also the occasion to present and distribute a booklet (in Italian) on scientific research on quality and sunstainability 
-of durum wheat production in Italy (Italian title "La ricerca italiana per la sostenibilità e la qualità della filiera del frumento duro").
+of durum wheat production in Italy (Italian title "La ricerca italiana per la sostenibilità e la qualità della filiera del frumento duro"; 
+"Terra è Vita" 03/2026 - VIII.+ 200pp. - ISSN:2421-356X).
+
