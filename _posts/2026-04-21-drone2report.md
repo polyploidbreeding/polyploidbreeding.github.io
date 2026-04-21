@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Published article in the journal Drones"
