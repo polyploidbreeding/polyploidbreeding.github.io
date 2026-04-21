@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Published article in the journal Drones"
+title: "Article published in the journal *Drones*"
 author: "Filippo Biscarini"
 date: "2026-04-21"
 categories: ['PUBLICATIONS']
